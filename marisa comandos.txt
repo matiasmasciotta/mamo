@@ -1,0 +1,18 @@
+-levantar cliente/app angular:  npm start (ng serve --port 4200)
+
+-cortar servicio: ctrl + c
+
+-navegar entre directorios de la terminal: cd + nombre de folder
+
+-crear app nueva en angular: ng new + nombre de app
+
+-clonar codigo sin usar clipboard: shift+alt+felcha abajo
+
+-seleccionar todo el contenido del archivo: ctrl + a
+
+- generar componentes con comando (en vez de hacer copy paste y replace de nombres) ng generate component ó ng g c y el path(ruta)
+   x ejemplo ng g c components/nombreCarpeta (esto genera todo el packete angular completo y lo pone en el app.module.ts automaticamente)
+
+
+--------------------------------------------------------
+video 45 directivas estructurales ngfor y nglf
