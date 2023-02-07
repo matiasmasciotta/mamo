@@ -16,3 +16,13 @@
 
 --------------------------------------------------------
 video 45 directivas estructurales ngfor y nglf
+
+COMO SUBIR CAMBIOS A GIT REPO
+
+0- hacer git pull origin main (para traer los posibles cambios del repo nube - si un compañero subio algun cambio nuevo ya esoty al día)
+
+parate en la consola (y si tenes cambios tuyos priemero subilos) con: 
+1- git status (te muestra en rojo todo lo que no este agregado al stage)
+2- git add . (agrega todos tus archivos al stage)
+3- git commit -m "comentario que quieras ponerle ej cambios clase 35 angular avanzado"
+4- git push origin main (para pushear o subir los cambios a la nube del repo en el branch (rama) main)
