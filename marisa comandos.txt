@@ -15,7 +15,7 @@
 
 
 --------------------------------------------------------
-video 45 directivas estructurales ngfor y nglf
+video 52 bootstrap cli
 
 COMO SUBIR CAMBIOS A GIT REPO
 
