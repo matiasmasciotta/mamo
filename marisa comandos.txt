@@ -2,7 +2,11 @@
 
 -cortar servicio: ctrl + c
 
+-abrir carpeta : c + enter
+
 -navegar entre directorios de la terminal: cd + nombre de folder
+
+para que te diga q carpetas contiene : dir + enter
 
 -crear app nueva en angular: ng new + nombre de app
 
@@ -10,12 +14,14 @@
 
 -seleccionar todo el contenido del archivo: ctrl + a
 
+comentar : ctrl k ctrl c
+
 - generar componentes con comando (en vez de hacer copy paste y replace de nombres) ng generate component ó ng g c y el path(ruta)
    x ejemplo ng g c components/nombreCarpeta (esto genera todo el packete angular completo y lo pone en el app.module.ts automaticamente)
 
 
 --------------------------------------------------------
-video 52 bootstrap cli
+video 53 nav bar y componentes
 
 COMO SUBIR CAMBIOS A GIT REPO
 
