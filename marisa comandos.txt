@@ -21,7 +21,7 @@ comentar : ctrl k ctrl c
 
 
 --------------------------------------------------------
-video 53 nav bar y componentes
+video 55 routerlink
 
 COMO SUBIR CAMBIOS A GIT REPO
 
